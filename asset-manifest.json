@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://priyankabharadwaj711.github.io/csb-2tj6r/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://priyankabharadwaj711.github.io/csb-2tj6r/static/js/main.14213b77.chunk.js",
+    "main.js.map": "https://priyankabharadwaj711.github.io/csb-2tj6r/static/js/main.14213b77.chunk.js.map",
+    "runtime-main.js": "https://priyankabharadwaj711.github.io/csb-2tj6r/static/js/runtime-main.745b3227.js",
+    "runtime-main.js.map": "https://priyankabharadwaj711.github.io/csb-2tj6r/static/js/runtime-main.745b3227.js.map",
+    "static/js/2.780c34ac.chunk.js": "https://priyankabharadwaj711.github.io/csb-2tj6r/static/js/2.780c34ac.chunk.js",
+    "static/js/2.780c34ac.chunk.js.map": "https://priyankabharadwaj711.github.io/csb-2tj6r/static/js/2.780c34ac.chunk.js.map",
+    "index.html": "https://priyankabharadwaj711.github.io/csb-2tj6r/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://priyankabharadwaj711.github.io/csb-2tj6r/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.780c34ac.chunk.js.LICENSE.txt": "https://priyankabharadwaj711.github.io/csb-2tj6r/static/js/2.780c34ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.745b3227.js",
+    "static/js/2.780c34ac.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.14213b77.chunk.js"
+  ]
+}
